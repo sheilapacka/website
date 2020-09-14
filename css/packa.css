@@ -1,0 +1,320 @@
+/*
+HSLA COLORS: "YOUNG GALS CAN BE MESSY RASCALS"
+
+60=yellow
+120=green
+180=cyan
+240=blue
+300=magenta
+360=red
+hsla(hue, saturation, lightness, alpha);
+ex: hsla(240, 80%, 40%, 0.8);
+http://compass-style.org/reference/compass/css3/
+http://www.workwithcolor.com/hsl-color-picker-01.htm
+
+adjusting color:
+http://sass-lang.com/docs/yardoc/Sass/Script/Functions.html
+
+*/
+/* $proveorange: adjust-color($proveblue, $hue: 180, $lightness: 20%, $alpha: -0.0); */
+/* line 17, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.13.alpha.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+q, blockquote {
+  quotes: none;
+}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+a img {
+  border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+/* TEXT */
+html {
+  font-size: 16px;
+  line-height: 1.5em;
+  font-family: Calibri, Candara, Optima, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 1em;
+  letter-spacing: .1em;
+}
+
+h2 {
+  font-size: 1.8em;
+  line-height: 1.1em;
+}
+h3 {
+  font-size: 1.5em;
+  line-height: 1.1em;
+}
+h5 {
+  font-size: 1.2em;
+  line-height: 1em;
+  font-weight: bold;
+}
+body > header > h1 {
+  font-size: 4em;
+  line-height: 1em;
+  letter-spacing: .2em;
+}
+body > header > h2 {
+  font-size: 3em;
+  line-height: 1.5em;
+}
+
+body > header > h3 {
+  font-size: 2em;
+  line-height: 1.5em;
+}
+span.logo {
+	font-size: 1.8;
+}
+p {
+	font-size: .9em;
+	line-height: 1.5em;
+}
+div {
+	font-size: 1em;
+	line-height: 1.5em;
+}
+small {
+	font-size: .8em;
+}
+div.contact {
+	font-size: 1.0em;
+}
+div.textContent {
+	font-size: 1.0em;
+}
+p.dates {
+	font-weight: bold;
+	font-style: italic;
+}
+i {
+	font-style: italic;
+}
+a {
+  text-decoration: none;
+}
+/* MARGINS BORDERS PADDING */
+body { 
+  padding: 2em;
+}
+body  header > h1 {
+  margin: 0px;
+  padding:.4em;
+}
+span.logo {
+	float: right;
+	margin: 10px;
+	padding-right: 0.2em;
+}
+body > header > h3 {
+  margin: 0px;
+  margin-bottom: 0.8em;
+}
+h1 {
+  margin: 0px;
+  margin-top: .2em;
+  margin-bottom: .2em;
+}
+h3 {
+  margin: 0px;
+  margin-bottom: 0.8em;
+}
+h5 {
+  margin: 0px;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+p {
+	margin: 0;
+	margin-top: 0em;
+	margin-bottom: .6em;
+}
+div.contact {
+	margin: 0px;
+	padding-left:.25em;
+	border-left-width: 0.0625em;
+	border-left-style: solid;
+	border-left-color: #2A8EC0;
+}
+header {
+  padding: 0px 0px;
+  overflow: auto;
+}
+article {
+	overflow: auto;
+}
+figure {
+	margin-top: 1em;
+	margin-left: 0.8em;
+	margin-right: 0.8em;
+	margin-bottom: 0.8em;
+	max-width:600px;
+	max-height:90%;
+	text-align:left;
+}
+figure img {
+	max-width:100%;
+	max-height:100%;
+}
+nav ul {
+	position: relative;
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	flex-direction: row;
+	/* justify-content: space-between || space-around || flex-start || flex-end*/
+	justify-content: flex-start;
+	padding: 1em 0em;
+	margin: 0;
+	vertical-align: baseline;
+	z-index:8888;
+}
+nav ul li {
+	padding: 1.2em;
+	vertical-align: baseline;
+	z-index:88888;
+}
+body > article {
+  border-width: 0em;
+  padding: 1.4375em;
+}
+hr {
+	border-width: 0.08em;
+	border-style: dashed;
+	border-color: #2A8EC0;
+}
+.textContent {
+  margin-top: 1em;
+}
+.flexcontainer {
+	display: flex; /*or inline-flex*/
+	flex-direction: row; /* || column || row-reverse || column-reverse; */
+	flex-wrap: wrap; || /* nowrap || wrap || wrap-reverse; */
+	justify-content: flex-start; /* || flex-end || center || space-between || space-around */
+	align-items: flex-start; /* || flex-end || center || stretch || baseline */
+}
+.flexitem {
+	order: 0; /* or 1, 2, 3 ....*/
+	flex-grow: 1; /* or 1, 2, 3 ... to let it grow to fit box ::: there is also a flex-shrink */
+	flex-basis: 600px; /* or a value 150px; */
+	align-self:  auto; /* || flex-start || flex-end || center || baseline || stretch */
+}
+
+@media only screen and (max-width: 600px) {
+	.flexitem {
+		flex-basis: 94%;
+		flex-grow: 2; /* or 1, 2, 3 ... to let it grow to fit box ::: there is also a flex-shrink */
+	}
+}
+/* COLOR */
+/*
+http://www.workwithcolor.com/hsl-color-picker-01.htm
+
+navy blue: #003399;
+sky blue: #2A8EC0;
+blue green: #3D88AE;
+blue gray: #49636F;
+white: #ffffff;
+black: #000000;
+*/
+body {
+	background: #444444;
+}
+article {
+	background: #ffffff;
+}
+nav {
+	background: #ffffff;
+}
+a {
+  color: #003399; /*navy blue*/
+}
+
+a:hover {
+	color: #2A8EC0; /*sky blue*/ 
+	border-bottom: solid 4px #2A8EC0;
+}
+h1 {
+	color: #003399; /*navy blue*/
+}
+body > header > h1 {
+  background-color: #2A8EC0; /*sky blue*/
+  color: #ffffff; /*white*/
+}
+body > article > header > h1 {
+  background-color: #2A8EC0; /*sky blue*/
+  color: #ffffff; /*white*/
+}
+span.logo {
+	color: #2A8EC0; /*sky blue*/
+}
+body > header span.logo {
+	color: #ffffff; /*white*/
+}
+h2 {
+  color: #2A8EC0; /*sky blue*/
+}
+
+h3 {
+  color: #2A8EC0; /*sky blue*/
+}
+h5 {
+  color: #3D88AE; /*blue green*/
+}
+p {
+	color: #000000; /*black*/
+}
+p.dates {
+	color: #49636F; /*blue gray*/
+}
