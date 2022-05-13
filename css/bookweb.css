@@ -174,7 +174,11 @@ header {
 header {
 	padding: 1em 0em;
 	max-width: 100%; width: 100%;
-	margin-bottom: .8em;
+	margin-bottom: .2em;
+}
+body main article > header {
+	padding: 0.2em 0em;
+	margin-bottom: .1em;
 }
 body main > header {
 	padding: 1em 1em;
@@ -191,11 +195,8 @@ h1 {
 	margin: 0px;
 	margin-top: .4em;
 	margin-bottom: .2em;
-	/*padding-left: 1em;
-	padding-right: 1em;*/
-	/*font-weight: bold;*/
 	font-size: 1.4em;
-	line-height: 1.4em;
+	line-height: 1.1em;
 	letter-spacing: .1em;
 }
 body main > header > h1 {
@@ -203,6 +204,9 @@ body main > header > h1 {
 }
 body main > section > header > h1 {
 	font-size: 1.8em;
+}
+article header h1 {
+	margin-bottom:0.4em;
 }
 h2 {
 	margin: 0px;
@@ -298,6 +302,9 @@ nav ul li.title {
 	flex-grow: 2;
 }*/
 
+nav ul li {
+	padding-bottom: 0.6em;
+}
 main > nav > ul {
     padding: 2em 2em 2em 2em;
 	border-top: solid 2px var(--warmwhite);
@@ -334,9 +341,19 @@ div {
 div.address {
 	line-height: 1;
 }
-div.sectionlink {
-	font-size: 1.2em;
-	font-weight: bold;
+#sectiontoc ul li {
+	list-style-type: none;
+	font-size: 0.9em;
+	font-weight:400;
+}
+section#sectiontoc  ul {
+	margin: 0.3em;
+	margin-right: 0em;
+}
+section#sectiontoc div.sectionlink {
+	font-size:1.2em;
+	font-weight:500;
+	margin-top: 1.0em;
 }
 span.top {
 	float:right;
@@ -360,6 +377,13 @@ div.inscription {
 	font-size:0.8em;
 	margin-left:4em;
 }
+article div.inscription {
+	margin-top:0em;
+	padding-top:0em;
+	font-size: 0.8em;
+	margin-left: 4em;
+	color: var(--warmwhite);
+}
 #afterword, #acknowledgments, #essay, #bio, #notes3rivers, #grantthanks  {
 	text-align: justify;
 	text-align-last: left;
@@ -368,7 +392,7 @@ section > div.inscription {
 	font-size: 1.4em;
 	font-style: italic;
 	padding-left: 5%;
-	color: var(--richgray2);
+	color: var(--warmwhite);
 }
 pre {
 	white-space: pre-wrap;
@@ -404,9 +428,11 @@ p.code, div.code {
 a {
 	font-weight:bold;
 	text-decoration: none;
+	text-decoration: underline solid 2px var(--warmwhite);
 	color: #fcfbe3;
 	color: var(--warmwhite);
 }
+/*
 main a:before {
 	color: #fcfbe3;
 	color: var(--warmdarkgray);
@@ -419,11 +445,12 @@ main a:after {
 	font-weight:bolder;
 	content: " .. ";
 }
+*/
 a:hover, a:focus {
 	color: var(--warmwhite);
-	text-decoration: underline solid 4px var(--warmwhite);
-	/*outline: solid 2px var(--warmwhite);
-	outline-offset: 0.5em;*/
+	text-decoration: underline solid 3px var(--warmgray);
+	outline: solid 2px var(--warmblack);
+	outline-offset: 0.5em;
 }
 svg.icon {
 	width: 50px;
