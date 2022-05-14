@@ -346,14 +346,21 @@ div.address {
 	font-size: 0.9em;
 	font-weight:400;
 }
+section#sectiontoc > div {
+	margin-left:2em;
+}
 section#sectiontoc  ul {
 	margin: 0.3em;
+	padding: 0em 0em 0em 2em;
 	margin-right: 0em;
 }
 section#sectiontoc div.sectionlink {
 	font-size:1.2em;
 	font-weight:500;
 	margin-top: 1.0em;
+}
+section#sectiontoc div.sectionlink a {
+	text-decoration: none;
 }
 span.top {
 	float:right;
