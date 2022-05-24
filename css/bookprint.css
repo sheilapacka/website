@@ -44,6 +44,7 @@ main > header {
 }
 section#sectionfrontmatter {
 	font-size: 10pt;
+	line-height: 1.2;
 	page: pagenonumbers;
 }
 section.pagenonumbers {
@@ -79,7 +80,7 @@ section#sectiontoc {
 	/*display: none;*/
 }
 #sectiontoc ul li a::after {
-	content: leader('.') target-counter(attr(href), page);
+	content: leader(' . ') target-counter(attr(href), page);
 }
 section.pagestartnumbers {
 	counter-reset: page 1;
@@ -177,6 +178,7 @@ section.pagestartnumbers {
 */
 #afterword, #acknowledgments, #essay, #bio, #notes3rivers, #grantthanks  {
 	text-align: justify;
+	hyphens: none;
 	text-align-last: left;
 }
 html {
@@ -185,7 +187,7 @@ html {
 	color: var(--richblack);
 }
 body {
-	font: 11pt var(--poetry), Courier, "Times New Roman", Times, serif;
+	font: 11pt var(--poetry);
 	line-height: 1.4;
 }
 main > header {
@@ -294,9 +296,11 @@ article {
 div.blank {
   page: blank;
 }
-div.address {
-	line-height: 1;
+/*
+.address {
+	line-height: 1.2;
 }
+*/
 span.indent1 {
 	padding-left: var(--indent1)
 }
@@ -320,41 +324,23 @@ a {
 	color: var(--richblack);
 	text-decoration: none;
 }
-ul.stanza li {
-	list-style-type: none;
-	display: inline;
-	font-size: 11pt;
-	color: var(--richblack);
-	font-weight:400;
-	margin:0.1em;
-}
-ul.stanza li:after {
-	content: " | ";
-}
-ul.stanza > li:nth-child(even):after {
-	color: var(--red);
-	content: " | ";
-}
-ul.stanza > li:nth-child(odd):after {
-	color: var(--yellow);
-	content: " _ ";
-}
 #sectiontoc ul li {
 	list-style-type: none;
 	font-size: 10pt;
 	color: var(--richblack);
 	font-weight:400;
-	margin:0.1em;
 }
-#sectiontoc ul {
-	margin:0.3em;
+section#sectiontoc  ul {
+	margin: 0.3em;
+	margin-right: 0em;
 	break-before: avoid-page;
+	orphans: 4;
 }
-section#sectiontoc  div.sectionlink {
+section#sectiontoc div.sectionlink {
 	font-size:1.1em;
 	color: var(--richgray1);
 	font-weight:400;
-	margin-top:0.25em;
+	margin-top: 1.1em;
 	break-after: avoid-page;
 }
 section#sectiontoc  div.sectionlink > a{
@@ -370,6 +356,10 @@ p.citation {
 	padding-left: 1.5em;
   	text-indent: -1.5em;
   	text-indent: hanging;
+}
+figure {
+	margin-top: 3em;
+	margin-bottom: 3em;
 }
 img {
 	margin:0.06in;
