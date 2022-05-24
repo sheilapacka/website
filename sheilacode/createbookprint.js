@@ -173,7 +173,7 @@ html = html + `
 </body>
 </html>`;
 let poemids = poems.map(poem => poem.id); 
-let filename = `${book.file}.html`;
+let filename = `${book.file}print.html`;
 fs.writeFileSync(filename, html, (err) => {
   if (err)
     console.log(err);
@@ -181,4 +181,5 @@ fs.writeFileSync(filename, html, (err) => {
     console.log(`${filename} written successfully\n`);
   }
 });
-console.log(`prince ${book.file}.html -o ${book.file}.pdf`);
+console.log(`prince ${filename} -o ${book.file}print.pdf`);
+console.log(`open ${book.file}print.pdf`);

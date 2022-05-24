@@ -19,10 +19,10 @@ www.wildwoodriver.com<br/>
 </p><p>
 Other books by Sheila Packa: <i>Mother Tongue</i>, <i>Echo & Lightning</i>, <i>Cloud Birds</i>, <i>Migrations</i>, and <i>Surface Displacements</i>
 </p>
-<p class="noweb">
+<figure class="noweb">
 <img height="60px" src="msab_logo_bw.jpg"/>
 <img height="60px" src="araclogo.png"/>
-</p>`
+</figure>`
 },
 {
 id: "grantthanks",

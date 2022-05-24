@@ -22,6 +22,7 @@ const generatefunctions = {
 		return b
 	}).reduce( (sectionstr,section,s) => {
 	if(section.title) {
+		//<div class="sectionlink">${section.title}</div>`;
 		sectionstr = sectionstr + `
 		<div class="sectionlink"><a id="link_${section.id}" href="#${section.id}">${section.title}</a></div>`;
 	}

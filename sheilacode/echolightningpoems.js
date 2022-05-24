@@ -30,10 +30,10 @@ text: `<p>
 “The Circle I Draw” appeared as Circle in Main Channel Voices, Spring 2008. “Incantation: Muse” appeared in Touchstone, Summer 2008. “Confluence,” “Fiddleheads” and “Twelve Tone Geese” appeared in Trail Guide: Northland Prints and Poems, ©2008. Some of these poems have previously been published by Wildwood River Press in the chapbooks Fearful Journey and Echo & Lightning, and recorded on an audio CD, Undertow. 
 In gratitude to the Arrowhead Regional Arts Council and the Loft McKnight Fellowships for past financial support. 
 </p>
-<p class="noweb">
+<figure class="noweb">
 <img height="60px" src="msab_logo_bw.jpg"/>
 <img height="60px" src="araclogo.png"/>
-</p>`
+</figure>`
 },
 {
 id: "dream",

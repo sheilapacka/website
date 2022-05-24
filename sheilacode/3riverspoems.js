@@ -23,12 +23,13 @@ The text of <i>Surface Displacements</i> is set in Crimson Pro<br/>
 </p><p>
 Other books by Sheila Packa: <i>Mother Tongue</i>, <i>Echo & Lightning</i>, <i>Cloud Birds</i>, <i>Migrations</i>, and <i>Night Train Red Dust: Poems of the Iron Range</i>
 </p>
-<p class="noweb">
+<figure class="noweb">
 <img height="60px" src="FFN-LOGO-_Circle-2020_BLACK_UPDATED_2.26.20.png"/>
 <img height="60px" src="msab_logo_bw.jpg"/>
 <img height="60px" src="araclogo.png"/>
 <img height="60px" src="2018-NEALogoBW-Square.jpg"/>
-</p>`
+</figure>
+`
 },
 {
 id: "grantthanks",
@@ -40,7 +41,7 @@ Sheila Packa was a fiscal year 2022 recipient of a Creative Support for Individu
 </p><p>
 Sheila also received an Individual Artist Career Development grant from the Arrowhead Regional Arts Council in 2015. This activity is made possible in part by the voters of Minnesota through a grant from the Arrowhead Regional Arts Council, thanks to appropriations from The McKnight Foundation and the Minnesota State Legislature’s general and arts and cultural heritage funds.
 </p><p>
-This book project, originally titled Three Rivers, was also made possible with the support of a grant in 2016 from Finlandia Foundation National, <a href="http://www.FinlandiaFoundation.org">www.FinlandiaFoundation.org</a>. Finlandia Foundation National invites applications for its grants program, which awards funds to projects related to Finnish-American and Finnish history, heritage, preservation, arts and culture. 
+This book project, originally titled Three Rivers, was also made possible with the support of a grant in 2016 from Finlandia Foundation National at <a href="http://www.FinlandiaFoundation.org">www.FinlandiaFoundation.org</a>. Finlandia Foundation National invites applications for its grants program, which awards funds to projects related to Finnish-American and Finnish history, heritage, preservation, arts and culture. 
 </p>`
 },
 {
@@ -471,7 +472,7 @@ through silence and sibilance and distant acquaintance,<br/>
 </p><p>
 a place to join instead to begin, a place of apprehension,<br/>
 of tension, of fluid dynamics, all her saying now<br/>
-an altered and muted underground music.<br/>
+a muted underground music.<br/>
 </p>`,
 },
 {
@@ -668,7 +669,7 @@ blankets wet and steaming.<br/>
 </p><p>
 ^<br/>
 A circle of quarter horses with braided manes<br/>
-On diamonds, they prance<br/>
+on diamonds, they prance<br/>
 with iron shoes<br/>
 </p><p>
 on roads filled with strife.<br/>
@@ -676,17 +677,17 @@ On a dark night, a strike.<br/>
 The sound of collapse:<br/>
 </p><p>
 one great wall and a country on its continent.<br/>
-An opera in the house,<br/>
+An opera in the house<br/>
 and a crisis on the measures.<br/>
 </p><p>
-The circle runs through graves and their instruments,<br/>
+The circle runs through graves and their instruments<br/>
 through Sibelius’ latitudes<br/>
 the hands that held the reins.<br/>
 </p><p>
 ^<br/>
 In horsepower, the soloist excels,<br/>
 her fragile body<br/>
-given over to its red violin.<br/>
+given over to the red violin.<br/>
 </p><p>
 She’s a racehorse. Ears back, ears forward.<br/>
 In chaos and howling war,<br/>
@@ -737,7 +738,7 @@ I always thought pines would stay standing<br/>
 the sun would set on all our lakes. But that’s not the case.<br/>
 </p><p>
 Geology won’t keep<br/>
-as the holes are grow more deep.<br/>
+as the holes grow more deep.<br/>
 In streams that fall into and out of my lap<br/>
 I make rugs to throw on the floor.<br/>
 </p>`
@@ -762,7 +763,7 @@ became one mine<br/>
 and the neighborhood teetered over the edge.<br/>
 In Hibbing, a hotel slid off the back of a truck<br/>
 other houses were lifted by jacks<br/>
-and travelled south somewhere.<br/>
+and traveled south somewhere.<br/>
 Now the main highway has been called back.<br/>
 The signature’s affixed.<br/>
 Bulldozers tear up concrete<br/>
@@ -800,7 +801,7 @@ of front end loaders by maintenance laborers<br/>
 wearing asbestos suits.<br/>
 </p><p>
 White pellets were 1000 degrees Fahrenheit<br/>
-black were 400 degrees,<br/>
+black were 400 degrees.<br/>
 Pellets could stick to the skin, burn into the neck.<br/>
 It was called a Minntac brand.<br/>
 </p><p>
@@ -812,7 +813,6 @@ called the ambulance.<br/>
 Conveyors kept rolling.<br/>
 Broken were nineteen out of twenty-six bones,<br/>
 the end of his mining career.<br/>
-He was replaced.<br/>
 </p><p>
 Now, there are signs in many yards.<br/>
 We support mining.<br/>
@@ -883,7 +883,7 @@ lifted old pines into arms of the younger.<br/>
 Rails of bridges caught tree trunks.<br/>
 Bridge decks got knocked off the pylons.<br/>
 </p><p>
-Neighbors went out stare at what was no longer there.<br/>
+Neighbors went out to stare at what was no longer there.<br/>
 A car was parked, but that ground beneath it sunk six feet.<br/>
 Brewer’s Creek, buried years ago, burst<br/>
 through the macadam and removed the grocery parking lot.<br/>
@@ -1157,7 +1157,7 @@ To find our melting point. Our boiling point.<br/>
 To smoke trout. Wrap in butcher paper.<br/>
 Set a table with the prize fish<br/>
 served with cream cheese and slices of cucumber.<br/>
-Drink vodka. Heat the pie in an iron<br/>
+Drink vodka. Heat the pie<br/>
 in the wood stove and eat.<br/>
 </p><p>
 Anything could be fixed, a propeller caught in the weeds,<br/>
@@ -1205,7 +1205,7 @@ on their backs, fine blades of grass<br/>
 ripple in the wind like fur.<br/>
 </p><p>
 Roots of the white pines have drowned<br/>
-and their trunks rotted. In cauldrons of gray stumps,<br/>
+and their trunks rotted. In cauldrons of gray stumps<br/>
 water swirls in the basins.<br/>
 </p><p>
 On the banks, driftwood lies like beasts<br/>
@@ -1295,7 +1295,7 @@ of falling water.<br/>
 {
 id: "dialectics",
 title: "Dialectics",
-inscription: "sampling from Hegel and Marx",
+inscription: "from Hegel and Marx",
 text: `<p>
 Water to ice.<br/>
 <i>A change in the nature of a thing.<br/>
@@ -1497,7 +1497,7 @@ My green boat,<br/>
 shuddering, plunging sideways<br/>
 </p><p>
 through clouds and water.<br/>
-The sound of an axe converses<br/>
+An axe converses<br/>
 with stones, converses with water.<br/>
 </p><p>
 I glide on momentum overtaken by wake<br/>
@@ -1652,15 +1652,15 @@ in dune grass: come closer — don’t come.<br/>
 id: "kaantaatotranslate",
 title: "Kääntää / To Translate",
 text: `<p>
-Uida. On the dock, an old woman<br/>
+On the dock, an old woman<br/>
 lowers herself into the dark Baltic<br/>
 swims with long strokes past the orange floats,<br/>
 unmistakable channel markings.<br/>
 </p><p>
 I search for words, for conveyance.<br/>
 The tongue with an old root.<br/>
-Kääntää means to translate<br/>
-means to carry.<br/>
+Kääntää means to translate.<br/>
+Kantaa means to carry.<br/>
 </p><p>
 I swim with her, let her arms<br/>
 pull me to and from<br/>
@@ -1673,8 +1673,8 @@ pulls herself up on the land as she<br/>
 shakes off the water.<br/>
 </p><p>
 If only there were a word for this<br/>
-memory of Ilmatar forming the body of earth.<br/>
-If it was gold, a fly caught in amber.<br/>
+Ilmatar forming the body of earth.<br/>
+If memory was gold, a fly caught in amber.<br/>
 </p>`,
 },
 {
@@ -1819,8 +1819,6 @@ title: "Sammal / Moss",
 text: `<p>
 From the road, I noticed<br/>
 a green shaggy bear.<br/>
-At least, that is what I thought<br/>
-from afar.<br/>
 Coming closer, it turned into windfall<br/>
 from a storm,<br/>
 a wheel of roots pulled from the ground<br/>
@@ -1850,12 +1848,12 @@ on heavy rain and saw a beam of light<br/>
 that stroked the wind-lashed tree.<br/>
 </p><p>
 The person holding the flashlight, unseen,<br/>
-in the other language.<br/>
+speaking in the other language.<br/>
 I picked up my phone to see<br/>
 3:03 a.m. and a news alert.<br/>
 Terrorists attacked Bataclan in Paris.<br/>
 </p><p>
-That day, remembered seeing<br/>
+That day, I remembered seeing<br/>
 a long line of military vehicles, dark green<br/>
 with camouflage over their loads<br/>
 going through town. Assumed this was routine.<br/>
@@ -2081,8 +2079,8 @@ There is never a line you can see<br/>
 between night and morning — they come out of each other.<br/>
 </p><p>
 I turned the alarm off before it rang.<br/>
-The day to make arrangements<br/>
-the first day in the world without him, ever again<br/>
+The day to make arrangements.<br/>
+The first day in the world without him, ever again<br/>
 and in the wan light, my feet found the floor.<br/>
 Toward the sound of coffee, voices,<br/>
 I groped my way back that long hallway.<br/>
@@ -2370,7 +2368,7 @@ Let the birds take those seeds.<br/>
 id: "halffallenone",
 title: "Half-Fallen One",
 text: `<p>
-In the forest, a slash among the upstanding.<br/>
+In the forest, a slash.<br/>
 Hard limbs hold a half-fallen tree<br/>
 interrupted between ascent and descent.<br/>
 </p><p>
@@ -2597,9 +2595,9 @@ When one buys a blue boat, it seems one sees a lot of blue boats. It could be sy
 </p><p>
 Thomas F. Waters, author of the nonfiction book <i>The Free-Flowing River</i>, says rivers are erosional landscapes. As a river flows forward in a valley and carves itself deeper, the valley travels backward. There are bends or turns. A stream’s structure is an array of patches, a patch mosaic. The pieces of the mosaic are large and small; these include the headwaters, midstream flows or a riffle over a moss-covered stone. Always, rivers are lines of energy.
 </p><p>
-The subject is surface displacements, the excavations in the landscape where I grew up. And in water, volume displacing other volumes. The Mesabi Iron Range, where I grew up, is an area 3 miles wide and 120 miles long, an erosional landscape and an industrial one. According to the Minnesota Department of Natural Resources, 4.1 billion tons of ore and taconite have been shipped away. Already mining has permanently altered the three-way divide and the path of flowing water.
+My subject is surface displacements, the excavations in the landscape where I grew up. And in water, volume displacing other volumes. The Mesabi Iron Range, where I grew up, is an area 3 miles wide and 120 miles long, an erosional landscape and an industrial one. According to the Minnesota Department of Natural Resources, 4.1 billion tons of ore and taconite have been shipped away. Already mining has permanently altered the three-way divide and the path of flowing water.
 </p><p>
-Surface displacements also refers to migration. Tribal nations have lived here for centuries, but as the United States population grew and settlers moved west, the tribes were pushed west as well. The Ashininaabe came to Minnesota, and with them, the vision of food that grows on water, wild rice or Manoomin. Minnesota owns 24 percent of the mineral rights in the state, but the rest is owned by private parties, primarily mining corporations (Mesabi Metallics, Keetac, Cleveland Cliffs, and others). This means mining gets priority above all else. Buildings are demolished as an open pit expands. If towns are in the way, they are removed. Highways are taken out and rerouted. People are displaced. This is where my grandparents arrived in the early 1900s along with so many other immigrants. According to the Minnesota Historical Society, over 40 languages were spoken. The only other region as ethnically diverse at the time was New York City.
+Surface displacements also refers to migration. Tribal nations have lived here for centuries, but as the United States population grew and settlers moved west, the tribes were pushed west as well. The Anishinaabe people came to Minnesota, and with them, the vision of food that grows on water, wild rice or Manoomin. Minnesota owns 24 percent of the mineral rights in the state, but the rest is owned by private parties, primarily mining corporations (Mesabi Metallics, Keetac, Cleveland Cliffs, and others). This means mining gets priority above all else. Buildings are demolished as an open pit expands. If towns are in the way, they are removed. Highways are taken out and rerouted. People are displaced. This is where my grandparents arrived in the early 1900s along with so many other immigrants. According to the Minnesota Historical Society, over 40 languages were spoken. The only other region as ethnically diverse at the time was New York City.
 </p><p>
 ^<br/>
 I worked as a maintenance laborer at Minntac in Mountain Iron, a summer job when I was in college. It was 1975. The pay was good. I was in the Agglomerator where four monstrous furnaces rolled taconite fines and bentonite into pellets. All the equipment in the taconite plant is larger than the human scale. Each furnace was the size of a train engine and as noisy. Laborers wore earplugs and other safety equipment like hard hats, goggles, and steel-toed boots. I was in an alienated workforce, about to go out on a wildcat strike, unauthorized by the union. The owners of the plant lived somewhere on the East Coast. Steel imports were coming into the United States for the first time, increasing the competition and driving down the price, and the workforce didn’t fully understand what that meant. Within a few weeks, the strike was broken. The corporation sued the employees for lost profits, and the workers gave in and returned to the plant without having made any gains.
@@ -2610,7 +2608,7 @@ The dust in the mine enters the lungs. Taconite fibers are similar to asbestos f
 </p><p>
 We were submerged. The Agglomerator had no windows. Laborers toiled in an industrial spume. The paperback books I tucked in my lunch pail curled up stiff as fallen leaves, darkened by heat and whatever was in the air. After every shift, I showered in the “dry” and though I’d soaped and rinsed thoroughly, I toweled taconite dust from my nostrils and the folds of my ears and behind my knees. Grease and dust stained my coveralls and my underwear. Once the whistle blew ending the shift, men drove to the bars and poured beer down their throats. They blacked out, and in oblivion, after the bars closed, drove erratically down sideroads to one of the many lakes, chains of lakes, or to the sinuous St Louis River. Some went skinny-dipping, some hooked up with partners they couldn’t fully see, and some collided with unmovable objects. Off-limits were the tailings ponds and the abandoned mine pits, steep-walled and filled with ice-cold water and unknown hazards.
 </p><p>
-The abandoned open pits suffer “water gain” because of underground water and rain. Pumps must be kept running to keep the excavation from flooding. In 2019, after a heavy rain, the embankment broke between the old Hector mine pit and the Embarrass River and water tore a ravine 50 feet wide and 25 feet deep. A burnt orange torrent, the color of iron oxidation, poured into the river and went downstream into the Embarrass Lake, Cedar Island Lake, and Lake Esquagama. Even before this, the lakes and rivers had been proven to have high sulfate levels which largely comes from taconite mines, as there are high levels of the compound in discharge from waste storage. This spill made things worse. Sulfates cause wild rice or Manoomin, to die, eliminating this important source of nutrition and sustenance.
+The abandoned open pits suffer “water gain” because of underground water and rain. Pumps must be kept running to keep the excavation from flooding. In 2019, after a heavy rain, the embankment broke between the old Hector mine pit and the Embarrass River and water tore a ravine 50 feet wide and 25 feet deep. A burnt orange torrent, the color of iron oxidation, poured into the river and went downstream into the Embarrass Lake, Cedar Island Lake, and Lake Esquagama. Even before this, the lakes and rivers had been proven to have high sulfate levels which largely comes from taconite mines, as there are high levels of the compound in discharge from waste storage. This spill made things worse. Sulfates cause wild rice or Manoomin, to die, eliminating this sacred source of nutrition and sustenance.
 </p><p>
 On the east side of the Iron Range stretches the Boundary Waters Canoe Area, a wilderness designated by the federal government, recently the center of controversy. Some want to develop copper sulfide mining despite the fact that surface storage of waste rock, tailings and sulfide-bearing ore creates acid, heavy metals, and sulfates that seep into groundwater and contaminate lakes, streams and rivers. In this region with a three-way continental divide, all forms of life are at risk of loss and displacement.
 </p><p>
@@ -2632,7 +2630,7 @@ Water and language are fluid and ever-changing. As we were bringing the boats to
 ^<br/>
 Every letter is pronounced in Finnish, none are silent. Double consonants are each pronounced, elongating the sound as if it were a note held long, like a dotted quarter note, the dot indicating the need to hold the sound half again as long. At the time, it was winter. In the woods, snow had fallen on the roof of my small house and curved over the eaves reaching for the drifts. It felt like my grandmother’s house when I was a child and awoke to the pendulum clock striking each hour in the night. Moonlight rained on the white roads, laden branches of spruce and balsam, mounds of snow. Through the windows, moonlight filled the room, making everything float. A moment like a photograph. The Finnish word hetkessä means a moment. It means <i>in next to no time</i>.
 </p><p>
-The darkest place on the Iron Range is the deepest place, the underground mine in Soudan. At Level 27, it is 2,341 feet deep. Along the shaft of the mine are stopes. It’s a park now, and people can buy a ticket to take the elevator down to the bottom for a tour. The underground mine is so dark I can’t see my hand in front of my face. The mine is so dark that a physics lab was temporarily created there to study dark matter, things in the universe that cannot be seen at all, but that are known because of their interaction with gravity. Neutrinos were shot from the Fermi lab near Chicago through the earth and recorded by several tons of specialized equipment down in the mine shaft. The absolute darkness in the mine avoided a skew caused by protons in the research results. According to CERN (The European Council for Nuclear Research), dark matter outweighs visible matter roughly six to one. It travels in next to no time.
+The darkest place on the Iron Range is the deepest place, the underground mine in Soudan. At Level 27, it is 2,341 feet deep. Along the shaft of the mine are stopes. It’s a park now, and people can buy a ticket to take the elevator down to the bottom for a tour. The underground mine is so dark I can’t see my hand in front of my face. The mine is so dark that a physics lab was temporarily created there to study dark matter, things in the universe that cannot be seen at all, but that are known because of their interaction with gravity. Neutrinos were shot from the Fermi lab near Chicago through the earth and recorded by several tons of specialized equipment down in the mine shaft. The absolute darkness in the mine avoided a skew caused by protons in the research results. According to the European Council for Nuclear Research (CERN), dark matter outweighs visible matter roughly six to one. It travels in next to no time.
 </p><p>
 ^<br/>
 I want a new habit of mind to note the invisible. When I walk in the forest, summer or winter, I rarely see wild things, only tracks and traces of slow ramblings and sudden chases. Poetry also has tracks and traces of the invisible or hidden. Poetry holds a negative space that is not silence exactly. It can mark the disappearance of land and old languages, mark the loss of trees and bodies of water, and trace the paths and reasons for arrivals and departures.
@@ -2646,9 +2644,9 @@ I’d like to thank the following literary magazines and anthologies for publish
 </p><p>
 “Four Stones” and “Levels” were published in the <i>Thunderbird Review</i>, April 2022.
 </p><p>
-“No Other Morning Like This” was published in <i>Bringing Joy: A Local Literary Welcome</i> an anthology of poems and writing celebrating the work of the 23rd United States Poet Laureate, Joy Harjo. Copyright ©2021 by Fond du Lac Tribal and Community College.
+“No Other Morning Like This” was published in <i>Bringing Joy: A Local Literary Welcome,</i> an anthology of poems and writing celebrating the work of the 23rd United States Poet Laureate, Joy Harjo. Copyright ©2021 by Fond du Lac Tribal and Community College.
 </p><p>
-“Water Filled Mine Pit” was recorded by Wisconsin Public Radio as part of the Writers Read program at Northland College and is published in <i>Re-Wilding</i>, Split Rock Review, 2020. 
+“Water Filled Mine Pit” was recorded by Wisconsin Public Radio as part of the Writers Read program at Northland College and is published in <i>Re-Wilding</i>, <i>Split Rock Review,</i> 2020. 
 </p><p>
 Surface Displacements #10 from “Acre of Music...” was published in <i>Rock & Sling</i>, Volume 10.2.
 </p><p>
@@ -2680,7 +2678,7 @@ id: "notes3rivers",
 title: "Notes",
 text: `<h5>I. In the Water</h5>
 <p>
-“Water-Filled Mine Pit” is an ekphrastic prose poem for the “Mine Songs” music and video created by Sara Pajunen. The poem was also inspired by poet and journalist Meridel LeSueur: “Let yourself down, as if underwater, into these lost walls, to hunt for treasure, to illuminate violence with meaning. Under sea-strange light these little houses glimmer in memory, powerful as radium.”
+“Water-Filled Mine Pit” is an ekphrastic prose poem for the “Mine Songs” music and aerial images created by Sara Pajunen. The poem was also inspired by poet and journalist Meridel LeSueur: “Let yourself down, as if underwater, into these lost walls, to hunt for treasure, to illuminate violence with meaning. Under sea-strange light these little houses glimmer in memory, powerful as radium.”
 </p>
 <h5>II. Surface Displacements</h5>
 <p>
@@ -2741,12 +2739,12 @@ In 2022, the Biden administration cancelled two federal mineral leases held by T
 </p><p>
 Read the history of the Lake Vermilion-Soudan Underground Mine State Park on MNopedia.
 </p><p>
-More detail and an explanation of the Cold Dark Matter Search experiment (CDMSII) conducted by CERN (The European Council for Nuclear Research) is found in the <i>CERN Courier</i> magazine and website. The study is complete and the equipment has been removed from the Soudan mine.
+More detail and an explanation of the Cold Dark Matter Search experiment (CDMSII) conducted by The European Council for Nuclear Research is found in the <i>CERN Courier</i> magazine and website. The study is complete and the equipment has been removed from the Soudan mine.
 </p>`
 },
 {
 id: "workcited",
-title: "Work Cited",
+title: "Works Cited",
 text: `<p class="citation">
 Anttonen, Veikko. “The Sampo as a Mental Representation of the Mythic Origin of Growth.” Essay. In <i>Mythic Discourses: Studies in Uralic Traditions,</i> edited by Frog, Anna-Leena Siikala, and Eila Stepanova. Helsinki: Finnish Literature Society, 2012.
 </p><p class="citation">
